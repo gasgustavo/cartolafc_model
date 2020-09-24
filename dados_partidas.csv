@@ -1,0 +1,381 @@
+,clube_casa_id,clube_visitant_id,clube_casa_nome,clube_visitant_nome,placar_casa,placar_visitante,rodada
+0,356,293,Fortaleza,Athlético-PR,0.0,2.0,1
+1,294,285,Coritiba,Internacional,0.0,1.0,1
+2,292,354,Sport,Ceará,3.0,2.0,1
+3,262,282,Flamengo,Atlético-MG,0.0,1.0,1
+4,277,280,Santos,Bragantino,1.0,1.0,1
+5,290,276,Goiás,São Paulo,-1.0,-1.0,1
+6,284,266,Grêmio,Fluminense,1.0,0.0,1
+7,275,267,Palmeiras,Vasco,-1.0,-1.0,1
+8,263,265,Botafogo,Bahia,-1.0,-1.0,1
+9,264,373,Corinthians,Atlético-GO,-1.0,-1.0,1
+10,280,263,Bragantino,Botafogo,1.0,1.0,2
+11,282,264,Atlético-MG,Corinthians,3.0,2.0,2
+12,293,290,Athlético-PR,Goiás,2.0,1.0,2
+13,265,294,Bahia,Coritiba,1.0,0.0,2
+14,373,262,Atlético-GO,Flamengo,3.0,0.0,2
+15,266,275,Fluminense,Palmeiras,1.0,1.0,2
+16,354,284,Ceará,Grêmio,1.0,1.0,2
+17,276,356,São Paulo,Fortaleza,1.0,0.0,2
+18,285,277,Internacional,Santos,2.0,0.0,2
+19,267,292,Vasco,Sport,2.0,0.0,2
+20,284,264,Grêmio,Corinthians,0.0,0.0,3
+21,294,262,Coritiba,Flamengo,0.0,1.0,3
+22,275,290,Palmeiras,Goiás,1.0,1.0,3
+23,282,354,Atlético-MG,Ceará,2.0,0.0,3
+24,267,276,Vasco,São Paulo,2.0,1.0,3
+25,265,280,Bahia,Bragantino,2.0,1.0,3
+26,266,285,Fluminense,Internacional,2.0,1.0,3
+27,373,292,Atlético-GO,Sport,1.0,1.0,3
+28,356,263,Fortaleza,Botafogo,0.0,0.0,3
+29,277,293,Santos,Athlético-PR,3.0,1.0,3
+30,262,284,Flamengo,Grêmio,1.0,1.0,4
+31,280,266,Bragantino,Fluminense,2.0,1.0,4
+32,293,275,Athlético-PR,Palmeiras,0.0,1.0,4
+33,285,373,Internacional,Atlético-GO,3.0,0.0,4
+34,290,356,Goiás,Fortaleza,1.0,3.0,4
+35,263,282,Botafogo,Atlético-MG,2.0,1.0,4
+36,264,294,Corinthians,Coritiba,3.0,1.0,4
+37,292,277,Sport,Santos,0.0,1.0,4
+38,276,265,São Paulo,Bahia,1.0,1.0,4
+39,354,267,Ceará,Vasco,0.0,3.0,4
+40,293,266,Athlético-PR,Fluminense,0.0,1.0,5
+41,285,282,Internacional,Atlético-MG,1.0,0.0,5
+42,290,373,Goiás,Atlético-GO,2.0,0.0,5
+43,262,263,Flamengo,Botafogo,1.0,1.0,5
+44,267,284,Vasco,Grêmio,0.0,0.0,5
+45,275,277,Palmeiras,Santos,2.0,1.0,5
+46,280,294,Bragantino,Coritiba,1.0,2.0,5
+47,292,276,Sport,São Paulo,0.0,1.0,5
+48,354,265,Ceará,Bahia,2.0,0.0,5
+49,264,356,Corinthians,Fortaleza,1.0,1.0,5
+50,282,293,Atlético-MG,Athlético-PR,-1.0,-1.0,6
+51,263,285,Botafogo,Internacional,0.0,2.0,6
+52,266,267,Fluminense,Vasco,2.0,1.0,6
+53,265,275,Bahia,Palmeiras,1.0,1.0,6
+54,356,280,Fortaleza,Bragantino,3.0,0.0,6
+55,276,264,São Paulo,Corinthians,2.0,1.0,6
+56,277,262,Santos,Flamengo,0.0,1.0,6
+57,294,292,Coritiba,Sport,1.0,0.0,6
+58,373,354,Atlético-GO,Ceará,0.0,2.0,6
+59,284,290,Grêmio,Goiás,-1.0,-1.0,6
+60,354,356,Ceará,Fortaleza,1.0,0.0,7
+61,266,373,Fluminense,Atlético-GO,1.0,1.0,7
+62,290,264,Goiás,Corinthians,1.0,2.0,7
+63,263,294,Botafogo,Coritiba,0.0,0.0,7
+64,265,262,Bahia,Flamengo,3.0,5.0,7
+65,293,280,Athlético-PR,Bragantino,1.0,1.0,7
+66,275,285,Palmeiras,Internacional,1.0,1.0,7
+67,277,267,Santos,Vasco,2.0,2.0,7
+68,284,292,Grêmio,Sport,1.0,2.0,7
+69,282,276,Atlético-MG,São Paulo,3.0,0.0,7
+70,262,356,Flamengo,Fortaleza,2.0,1.0,8
+71,264,263,Corinthians,Botafogo,2.0,2.0,8
+72,354,277,Ceará,Santos,0.0,1.0,8
+73,280,275,Bragantino,Palmeiras,1.0,2.0,8
+74,276,266,São Paulo,Fluminense,3.0,1.0,8
+75,285,265,Internacional,Bahia,2.0,2.0,8
+76,267,293,Vasco,Athlético-PR,1.0,0.0,8
+77,373,284,Atlético-GO,Grêmio,1.0,1.0,8
+78,292,290,Sport,Goiás,2.0,1.0,8
+79,294,282,Coritiba,Atlético-MG,0.0,1.0,8
+80,293,263,Athlético-PR,Botafogo,1.0,1.0,9
+81,356,292,Fortaleza,Sport,1.0,0.0,9
+82,290,294,Goiás,Coritiba,3.0,3.0,9
+83,276,280,São Paulo,Bragantino,1.0,1.0,9
+84,266,262,Fluminense,Flamengo,1.0,2.0,9
+85,277,282,Santos,Atlético-MG,3.0,1.0,9
+86,264,275,Corinthians,Palmeiras,0.0,2.0,9
+87,285,354,Internacional,Ceará,2.0,0.0,9
+88,265,284,Bahia,Grêmio,0.0,2.0,9
+89,267,373,Vasco,Atlético-GO,1.0,2.0,9
+90,293,294,Athlético-PR,Coritiba,1.0,0.0,10
+91,277,276,Santos,São Paulo,2.0,2.0,10
+92,266,264,Fluminense,Corinthians,2.0,1.0,10
+93,284,356,Grêmio,Fortaleza,1.0,1.0,10
+94,282,280,Atlético-MG,Bragantino,2.0,1.0,10
+95,265,373,Bahia,Atlético-GO,0.0,1.0,10
+96,354,262,Ceará,Flamengo,2.0,0.0,10
+97,290,285,Goiás,Internacional,1.0,0.0,10
+98,275,292,Palmeiras,Sport,2.0,2.0,10
+99,263,267,Botafogo,Vasco,2.0,3.0,10
+100,276,293,São Paulo,Athlético-PR,1.0,0.0,11
+101,264,265,Corinthians,Bahia,3.0,2.0,11
+102,280,354,Bragantino,Ceará,4.0,2.0,11
+103,356,285,Fortaleza,Internacional,1.0,0.0,11
+104,373,282,Atlético-GO,Atlético-MG,3.0,4.0,11
+105,284,275,Grêmio,Palmeiras,1.0,1.0,11
+106,294,267,Coritiba,Vasco,1.0,0.0,11
+107,263,277,Botafogo,Santos,0.0,0.0,11
+108,292,266,Sport,Fluminense,1.0,0.0,11
+109,262,290,Flamengo,Goiás,-1.0,-1.0,11
+110,292,264,Sport,Corinthians,-1.0,-1.0,12
+111,285,276,Internacional,São Paulo,-1.0,-1.0,12
+112,293,265,Athlético-PR,Bahia,-1.0,-1.0,12
+113,282,284,Atlético-MG,Grêmio,-1.0,-1.0,12
+114,267,280,Vasco,Bragantino,-1.0,-1.0,12
+115,275,262,Palmeiras,Flamengo,-1.0,-1.0,12
+116,354,290,Ceará,Goiás,-1.0,-1.0,12
+117,373,263,Atlético-GO,Botafogo,-1.0,-1.0,12
+118,277,356,Santos,Fortaleza,-1.0,-1.0,12
+119,266,294,Fluminense,Coritiba,-1.0,-1.0,12
+120,284,285,Grêmio,Internacional,-1.0,-1.0,13
+121,275,354,Palmeiras,Ceará,-1.0,-1.0,13
+122,280,264,Bragantino,Corinthians,-1.0,-1.0,13
+123,263,266,Botafogo,Fluminense,-1.0,-1.0,13
+124,262,293,Flamengo,Athlético-PR,-1.0,-1.0,13
+125,294,276,Coritiba,São Paulo,-1.0,-1.0,13
+126,265,292,Bahia,Sport,-1.0,-1.0,13
+127,356,373,Fortaleza,Atlético-GO,-1.0,-1.0,13
+128,290,277,Goiás,Santos,-1.0,-1.0,13
+129,282,267,Atlético-MG,Vasco,-1.0,-1.0,13
+130,264,277,Corinthians,Santos,-1.0,-1.0,14
+131,262,292,Flamengo,Sport,-1.0,-1.0,14
+132,284,294,Grêmio,Coritiba,-1.0,-1.0,14
+133,265,267,Bahia,Vasco,-1.0,-1.0,14
+134,276,373,São Paulo,Atlético-GO,-1.0,-1.0,14
+135,290,266,Goiás,Fluminense,-1.0,-1.0,14
+136,263,275,Botafogo,Palmeiras,-1.0,-1.0,14
+137,356,282,Fortaleza,Atlético-MG,-1.0,-1.0,14
+138,293,354,Athlético-PR,Ceará,-1.0,-1.0,14
+139,280,285,Bragantino,Internacional,-1.0,-1.0,14
+140,267,262,Vasco,Flamengo,-1.0,-1.0,15
+141,275,276,Palmeiras,São Paulo,-1.0,-1.0,15
+142,294,356,Coritiba,Fortaleza,-1.0,-1.0,15
+143,282,290,Atlético-MG,Goiás,-1.0,-1.0,15
+144,266,265,Fluminense,Bahia,-1.0,-1.0,15
+145,277,284,Santos,Grêmio,-1.0,-1.0,15
+146,292,263,Sport,Botafogo,-1.0,-1.0,15
+147,285,293,Internacional,Athlético-PR,-1.0,-1.0,15
+148,354,264,Ceará,Corinthians,-1.0,-1.0,15
+149,373,280,Atlético-GO,Bragantino,-1.0,-1.0,15
+150,262,280,Flamengo,Bragantino,-1.0,-1.0,16
+151,267,356,Vasco,Fortaleza,-1.0,-1.0,16
+152,275,294,Palmeiras,Coritiba,-1.0,-1.0,16
+153,277,373,Santos,Atlético-GO,-1.0,-1.0,16
+154,282,266,Atlético-MG,Fluminense,-1.0,-1.0,16
+155,284,263,Grêmio,Botafogo,-1.0,-1.0,16
+156,292,285,Sport,Internacional,-1.0,-1.0,16
+157,293,264,Athlético-PR,Corinthians,-1.0,-1.0,16
+158,354,276,Ceará,São Paulo,-1.0,-1.0,16
+159,290,265,Goiás,Bahia,-1.0,-1.0,16
+160,266,354,Fluminense,Ceará,-1.0,-1.0,17
+161,263,290,Botafogo,Goiás,-1.0,-1.0,17
+162,276,284,São Paulo,Grêmio,-1.0,-1.0,17
+163,280,292,Bragantino,Sport,-1.0,-1.0,17
+164,264,262,Corinthians,Flamengo,-1.0,-1.0,17
+165,285,267,Internacional,Vasco,-1.0,-1.0,17
+166,265,282,Bahia,Atlético-MG,-1.0,-1.0,17
+167,294,277,Coritiba,Santos,-1.0,-1.0,17
+168,356,275,Fortaleza,Palmeiras,-1.0,-1.0,17
+169,373,293,Atlético-GO,Athlético-PR,-1.0,-1.0,17
+170,266,277,Fluminense,Santos,-1.0,-1.0,18
+171,267,264,Vasco,Corinthians,-1.0,-1.0,18
+172,276,263,São Paulo,Botafogo,-1.0,-1.0,18
+173,280,290,Bragantino,Goiás,-1.0,-1.0,18
+174,282,292,Atlético-MG,Sport,-1.0,-1.0,18
+175,285,262,Internacional,Flamengo,-1.0,-1.0,18
+176,265,356,Bahia,Fortaleza,-1.0,-1.0,18
+177,293,284,Athlético-PR,Grêmio,-1.0,-1.0,18
+178,354,294,Ceará,Coritiba,-1.0,-1.0,18
+179,373,275,Atlético-GO,Palmeiras,-1.0,-1.0,18
+180,262,276,Flamengo,São Paulo,-1.0,-1.0,19
+181,263,354,Botafogo,Ceará,-1.0,-1.0,19
+182,275,282,Palmeiras,Atlético-MG,-1.0,-1.0,19
+183,277,265,Santos,Bahia,-1.0,-1.0,19
+184,264,285,Corinthians,Internacional,-1.0,-1.0,19
+185,284,280,Grêmio,Bragantino,-1.0,-1.0,19
+186,292,293,Sport,Athlético-PR,-1.0,-1.0,19
+187,294,373,Coritiba,Atlético-GO,-1.0,-1.0,19
+188,356,266,Fortaleza,Fluminense,-1.0,-1.0,19
+189,290,267,Goiás,Vasco,-1.0,-1.0,19
+190,266,284,Fluminense,Grêmio,-1.0,-1.0,20
+191,267,275,Vasco,Palmeiras,-1.0,-1.0,20
+192,276,290,São Paulo,Goiás,-1.0,-1.0,20
+193,280,277,Bragantino,Santos,-1.0,-1.0,20
+194,282,262,Atlético-MG,Flamengo,-1.0,-1.0,20
+195,285,294,Internacional,Coritiba,-1.0,-1.0,20
+196,265,263,Bahia,Botafogo,-1.0,-1.0,20
+197,293,356,Athlético-PR,Fortaleza,-1.0,-1.0,20
+198,354,292,Ceará,Sport,-1.0,-1.0,20
+199,373,264,Atlético-GO,Corinthians,-1.0,-1.0,20
+200,262,373,Flamengo,Atlético-GO,-1.0,-1.0,21
+201,263,280,Botafogo,Bragantino,-1.0,-1.0,21
+202,275,266,Palmeiras,Fluminense,-1.0,-1.0,21
+203,277,285,Santos,Internacional,-1.0,-1.0,21
+204,264,282,Corinthians,Atlético-MG,-1.0,-1.0,21
+205,284,354,Grêmio,Ceará,-1.0,-1.0,21
+206,292,267,Sport,Vasco,-1.0,-1.0,21
+207,294,265,Coritiba,Bahia,-1.0,-1.0,21
+208,356,276,Fortaleza,São Paulo,-1.0,-1.0,21
+209,290,293,Goiás,Athlético-PR,-1.0,-1.0,21
+210,262,294,Flamengo,Coritiba,-1.0,-1.0,22
+211,263,356,Botafogo,Fortaleza,-1.0,-1.0,22
+212,276,267,São Paulo,Vasco,-1.0,-1.0,22
+213,280,265,Bragantino,Bahia,-1.0,-1.0,22
+214,264,284,Corinthians,Grêmio,-1.0,-1.0,22
+215,285,266,Internacional,Fluminense,-1.0,-1.0,22
+216,292,373,Sport,Atlético-GO,-1.0,-1.0,22
+217,293,277,Athlético-PR,Santos,-1.0,-1.0,22
+218,354,282,Ceará,Atlético-MG,-1.0,-1.0,22
+219,290,275,Goiás,Palmeiras,-1.0,-1.0,22
+220,266,280,Fluminense,Bragantino,-1.0,-1.0,23
+221,267,354,Vasco,Ceará,-1.0,-1.0,23
+222,275,293,Palmeiras,Athlético-PR,-1.0,-1.0,23
+223,277,292,Santos,Sport,-1.0,-1.0,23
+224,282,263,Atlético-MG,Botafogo,-1.0,-1.0,23
+225,284,262,Grêmio,Flamengo,-1.0,-1.0,23
+226,265,276,Bahia,São Paulo,-1.0,-1.0,23
+227,294,264,Coritiba,Corinthians,-1.0,-1.0,23
+228,356,290,Fortaleza,Goiás,-1.0,-1.0,23
+229,373,285,Atlético-GO,Internacional,-1.0,-1.0,23
+230,266,293,Fluminense,Athlético-PR,-1.0,-1.0,24
+231,263,262,Botafogo,Flamengo,-1.0,-1.0,24
+232,276,292,São Paulo,Sport,-1.0,-1.0,24
+233,277,275,Santos,Palmeiras,-1.0,-1.0,24
+234,282,285,Atlético-MG,Internacional,-1.0,-1.0,24
+235,284,267,Grêmio,Vasco,-1.0,-1.0,24
+236,265,354,Bahia,Ceará,-1.0,-1.0,24
+237,294,280,Coritiba,Bragantino,-1.0,-1.0,24
+238,356,264,Fortaleza,Corinthians,-1.0,-1.0,24
+239,373,290,Atlético-GO,Goiás,-1.0,-1.0,24
+240,262,277,Flamengo,Santos,-1.0,-1.0,25
+241,267,266,Vasco,Fluminense,-1.0,-1.0,25
+242,275,265,Palmeiras,Bahia,-1.0,-1.0,25
+243,280,356,Bragantino,Fortaleza,-1.0,-1.0,25
+244,264,276,Corinthians,São Paulo,-1.0,-1.0,25
+245,285,263,Internacional,Botafogo,-1.0,-1.0,25
+246,292,294,Sport,Coritiba,-1.0,-1.0,25
+247,293,282,Athlético-PR,Atlético-MG,-1.0,-1.0,25
+248,354,373,Ceará,Atlético-GO,-1.0,-1.0,25
+249,290,284,Goiás,Grêmio,-1.0,-1.0,25
+250,262,265,Flamengo,Bahia,-1.0,-1.0,26
+251,267,277,Vasco,Santos,-1.0,-1.0,26
+252,276,282,São Paulo,Atlético-MG,-1.0,-1.0,26
+253,280,293,Bragantino,Athlético-PR,-1.0,-1.0,26
+254,264,290,Corinthians,Goiás,-1.0,-1.0,26
+255,285,275,Internacional,Palmeiras,-1.0,-1.0,26
+256,292,284,Sport,Grêmio,-1.0,-1.0,26
+257,294,263,Coritiba,Botafogo,-1.0,-1.0,26
+258,356,354,Fortaleza,Ceará,-1.0,-1.0,26
+259,373,266,Atlético-GO,Fluminense,-1.0,-1.0,26
+260,266,276,Fluminense,São Paulo,-1.0,-1.0,27
+261,263,264,Botafogo,Corinthians,-1.0,-1.0,27
+262,275,280,Palmeiras,Bragantino,-1.0,-1.0,27
+263,277,354,Santos,Ceará,-1.0,-1.0,27
+264,282,294,Atlético-MG,Coritiba,-1.0,-1.0,27
+265,284,373,Grêmio,Atlético-GO,-1.0,-1.0,27
+266,265,285,Bahia,Internacional,-1.0,-1.0,27
+267,293,267,Athlético-PR,Vasco,-1.0,-1.0,27
+268,356,262,Fortaleza,Flamengo,-1.0,-1.0,27
+269,290,292,Goiás,Sport,-1.0,-1.0,27
+270,262,266,Flamengo,Fluminense,-1.0,-1.0,28
+271,263,293,Botafogo,Athlético-PR,-1.0,-1.0,28
+272,275,264,Palmeiras,Corinthians,-1.0,-1.0,28
+273,280,276,Bragantino,São Paulo,-1.0,-1.0,28
+274,282,277,Atlético-MG,Santos,-1.0,-1.0,28
+275,284,265,Grêmio,Bahia,-1.0,-1.0,28
+276,292,356,Sport,Fortaleza,-1.0,-1.0,28
+277,294,290,Coritiba,Goiás,-1.0,-1.0,28
+278,354,285,Ceará,Internacional,-1.0,-1.0,28
+279,373,267,Atlético-GO,Vasco,-1.0,-1.0,28
+280,262,354,Flamengo,Ceará,-1.0,-1.0,29
+281,267,263,Vasco,Botafogo,-1.0,-1.0,29
+282,276,277,São Paulo,Santos,-1.0,-1.0,29
+283,280,282,Bragantino,Atlético-MG,-1.0,-1.0,29
+284,264,266,Corinthians,Fluminense,-1.0,-1.0,29
+285,285,290,Internacional,Goiás,-1.0,-1.0,29
+286,292,275,Sport,Palmeiras,-1.0,-1.0,29
+287,294,293,Coritiba,Athlético-PR,-1.0,-1.0,29
+288,356,284,Fortaleza,Grêmio,-1.0,-1.0,29
+289,373,265,Atlético-GO,Bahia,-1.0,-1.0,29
+290,266,292,Fluminense,Sport,-1.0,-1.0,30
+291,267,294,Vasco,Coritiba,-1.0,-1.0,30
+292,275,284,Palmeiras,Grêmio,-1.0,-1.0,30
+293,277,263,Santos,Botafogo,-1.0,-1.0,30
+294,282,373,Atlético-MG,Atlético-GO,-1.0,-1.0,30
+295,285,356,Internacional,Fortaleza,-1.0,-1.0,30
+296,265,264,Bahia,Corinthians,-1.0,-1.0,30
+297,293,276,Athlético-PR,São Paulo,-1.0,-1.0,30
+298,354,280,Ceará,Bragantino,-1.0,-1.0,30
+299,290,262,Goiás,Flamengo,-1.0,-1.0,30
+300,262,275,Flamengo,Palmeiras,-1.0,-1.0,31
+301,263,373,Botafogo,Atlético-GO,-1.0,-1.0,31
+302,276,285,São Paulo,Internacional,-1.0,-1.0,31
+303,280,267,Bragantino,Vasco,-1.0,-1.0,31
+304,264,292,Corinthians,Sport,-1.0,-1.0,31
+305,284,282,Grêmio,Atlético-MG,-1.0,-1.0,31
+306,265,293,Bahia,Athlético-PR,-1.0,-1.0,31
+307,294,266,Coritiba,Fluminense,-1.0,-1.0,31
+308,356,277,Fortaleza,Santos,-1.0,-1.0,31
+309,290,354,Goiás,Ceará,-1.0,-1.0,31
+310,266,263,Fluminense,Botafogo,-1.0,-1.0,32
+311,267,282,Vasco,Atlético-MG,-1.0,-1.0,32
+312,276,294,São Paulo,Coritiba,-1.0,-1.0,32
+313,277,290,Santos,Goiás,-1.0,-1.0,32
+314,264,280,Corinthians,Bragantino,-1.0,-1.0,32
+315,285,284,Internacional,Grêmio,-1.0,-1.0,32
+316,292,265,Sport,Bahia,-1.0,-1.0,32
+317,293,262,Athlético-PR,Flamengo,-1.0,-1.0,32
+318,354,275,Ceará,Palmeiras,-1.0,-1.0,32
+319,373,356,Atlético-GO,Fortaleza,-1.0,-1.0,32
+320,266,290,Fluminense,Goiás,-1.0,-1.0,33
+321,267,265,Vasco,Bahia,-1.0,-1.0,33
+322,275,263,Palmeiras,Botafogo,-1.0,-1.0,33
+323,277,264,Santos,Corinthians,-1.0,-1.0,33
+324,282,356,Atlético-MG,Fortaleza,-1.0,-1.0,33
+325,285,280,Internacional,Bragantino,-1.0,-1.0,33
+326,292,262,Sport,Flamengo,-1.0,-1.0,33
+327,294,284,Coritiba,Grêmio,-1.0,-1.0,33
+328,354,293,Ceará,Athlético-PR,-1.0,-1.0,33
+329,373,276,Atlético-GO,São Paulo,-1.0,-1.0,33
+330,262,267,Flamengo,Vasco,-1.0,-1.0,34
+331,263,292,Botafogo,Sport,-1.0,-1.0,34
+332,276,275,São Paulo,Palmeiras,-1.0,-1.0,34
+333,280,373,Bragantino,Atlético-GO,-1.0,-1.0,34
+334,264,354,Corinthians,Ceará,-1.0,-1.0,34
+335,284,277,Grêmio,Santos,-1.0,-1.0,34
+336,265,266,Bahia,Fluminense,-1.0,-1.0,34
+337,293,285,Athlético-PR,Internacional,-1.0,-1.0,34
+338,356,294,Fortaleza,Coritiba,-1.0,-1.0,34
+339,290,282,Goiás,Atlético-MG,-1.0,-1.0,34
+340,266,282,Fluminense,Atlético-MG,-1.0,-1.0,35
+341,263,284,Botafogo,Grêmio,-1.0,-1.0,35
+342,276,354,São Paulo,Ceará,-1.0,-1.0,35
+343,280,262,Bragantino,Flamengo,-1.0,-1.0,35
+344,264,293,Corinthians,Athlético-PR,-1.0,-1.0,35
+345,285,292,Internacional,Sport,-1.0,-1.0,35
+346,265,290,Bahia,Goiás,-1.0,-1.0,35
+347,294,275,Coritiba,Palmeiras,-1.0,-1.0,35
+348,356,267,Fortaleza,Vasco,-1.0,-1.0,35
+349,373,277,Atlético-GO,Santos,-1.0,-1.0,35
+350,262,264,Flamengo,Corinthians,-1.0,-1.0,36
+351,267,285,Vasco,Internacional,-1.0,-1.0,36
+352,275,356,Palmeiras,Fortaleza,-1.0,-1.0,36
+353,277,294,Santos,Coritiba,-1.0,-1.0,36
+354,282,265,Atlético-MG,Bahia,-1.0,-1.0,36
+355,284,276,Grêmio,São Paulo,-1.0,-1.0,36
+356,292,280,Sport,Bragantino,-1.0,-1.0,36
+357,293,373,Athlético-PR,Atlético-GO,-1.0,-1.0,36
+358,354,266,Ceará,Fluminense,-1.0,-1.0,36
+359,290,263,Goiás,Botafogo,-1.0,-1.0,36
+360,262,285,Flamengo,Internacional,-1.0,-1.0,37
+361,263,276,Botafogo,São Paulo,-1.0,-1.0,37
+362,275,373,Palmeiras,Atlético-GO,-1.0,-1.0,37
+363,277,266,Santos,Fluminense,-1.0,-1.0,37
+364,264,267,Corinthians,Vasco,-1.0,-1.0,37
+365,284,293,Grêmio,Athlético-PR,-1.0,-1.0,37
+366,292,282,Sport,Atlético-MG,-1.0,-1.0,37
+367,294,354,Coritiba,Ceará,-1.0,-1.0,37
+368,356,265,Fortaleza,Bahia,-1.0,-1.0,37
+369,290,280,Goiás,Bragantino,-1.0,-1.0,37
+370,266,356,Fluminense,Fortaleza,-1.0,-1.0,38
+371,267,290,Vasco,Goiás,-1.0,-1.0,38
+372,276,262,São Paulo,Flamengo,-1.0,-1.0,38
+373,280,284,Bragantino,Grêmio,-1.0,-1.0,38
+374,282,275,Atlético-MG,Palmeiras,-1.0,-1.0,38
+375,285,264,Internacional,Corinthians,-1.0,-1.0,38
+376,265,277,Bahia,Santos,-1.0,-1.0,38
+377,293,292,Athlético-PR,Sport,-1.0,-1.0,38
+378,354,263,Ceará,Botafogo,-1.0,-1.0,38
+379,373,294,Atlético-GO,Coritiba,-1.0,-1.0,38
